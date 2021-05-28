@@ -6,4 +6,5 @@ Je travaille essentiellement sur des projets touchants aux humanités numérique
 Langages/Framework: HTML, CSS, JS, VUE, NUXT, FLUTTER, LOVE2D, GODOT
 
 Twitter - @joshuavachon25
+
 IN - @joshuavachon25
