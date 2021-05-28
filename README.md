@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @joshuavachon25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bonjour, je suis Joshua L.J. Vachon 🐮, étudiant à la maîtrise en histoire numérique, développeur web et mobile. 
+J'ai co-fondé avec Fanny Beaudoin et Hubert Cousineau la plateforme pour la démocratisation des Humanités numériques Historiamatica (changement de nom à venir), puis Cyberfjord Studio avec Fanny Beaudoin.🌎
 
-<!---
-joshuavachon25/joshuavachon25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je travaille essentiellement sur des projets touchants aux humanités numériques et à la vulgarisation scientifique à l'aide d'outils informatiques. 
+
+Langages/Framework: HTML, CSS, JS, VUE, NUXT, FLUTTER, LOVE2D, GODOT
