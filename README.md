@@ -20,7 +20,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/Web-Nuxt.js-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=2bbc8a" />
 </a>
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/Modèle-Jamstack-informational?style=flat&logo=jamstack&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/-Jamstack-informational?style=flat&logo=jamstack&logoColor=white&color=2bbc8a" />
 </a>
 
 <a href="#" style="cursor: default;">
