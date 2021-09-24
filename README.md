@@ -24,7 +24,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
 </a>
 
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=8FBCBB" />
 </a>
 
 
