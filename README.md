@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuavachon25&theme=city_lights" />
+<img align="center" src="/assets/shudai_anim.svg" />
 
 
 Bonjour, je suis Joshua L.J. Vachon 🐮, étudiant à la maîtrise en histoire numérique, développeur web et mobile. 
