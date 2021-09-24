@@ -5,7 +5,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
 ## Langages, frameworks et logiciels
 
 <a href="#" style="cursor: default;">
-<img src="https://img.shields.io/badge/-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/web-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
 </a>
 
 
