@@ -46,8 +46,29 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
 </a>
 
 ## Logiciels principalement utilisés
+
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC" />
+</a>
+
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E" />
+</a>
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=589632" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Suite_Affinity-informational?style=flat&logo=affinity&logoColor=white&color=222324" />
+</a>
+ <a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=F37626" />
+</a>
+
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Blender_3D-informational?style=flat&logo=blender&logoColor=white&color=F5792A" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/-Godot-informational?style=flat&logo=godotengine&logoColor=white&color=478CBF" />
 </a>
 
 ## Réseaux asociaux 
