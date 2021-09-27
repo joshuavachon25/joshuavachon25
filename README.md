@@ -37,7 +37,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/SIG-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=8FBCBB" />
 </a>-->
 
-## Réseaux sociaux (pas très actifs)
+## Réseaux sociaux 
 <a href="https://twitter.com/JoshuaVachon25" target="_blank" style="cursor: default;">
   <img src="https://img.shields.io/badge/Twitter-@joshuavachon25-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" />
 </a>
