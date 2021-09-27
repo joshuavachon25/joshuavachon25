@@ -7,7 +7,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/Web-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
 </a>
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Web-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
 </a>
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/Web-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
@@ -26,17 +26,29 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/Web-Nuxt.js-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=2bbc8a" />
 </a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Web-Gridsome-informational?style=flat&logo=gridsome&logoColor=white&color=2bbc8a" />
+</a>
 
 ### Plateforme
 
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=8FBCBB" />
-</a>*/
+  <img src="https://img.shields.io/badge/Host-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Host-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Host-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Host-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28" />
+</a>
 
 ### Logiciels
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/SIG-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=8FBCBB" />
-</a>-->
+</a>
 
 ## Réseaux sociaux 
 <a href="https://twitter.com/JoshuaVachon25" target="_blank" style="cursor: default;">
