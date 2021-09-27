@@ -2,7 +2,7 @@
 
 Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, développeur et rédacteur pour le projet Historiamati.ca et candidat à la maîtrise en informatique appliquée à l'histoire (M.A). J'aime principalement travailler sur des projets informatiques touchant aux sciences humaines et sociales, donc tout ce qui touche aux humanités numériques. 
 
-## Langages
+## Langages principalement utilisés
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
 </a>
@@ -19,7 +19,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
 </a>
 
-## Framework
+## Frameworks de prédilection
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D" />
 </a>
@@ -30,7 +30,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Gridsome-informational?style=flat&logo=gridsome&logoColor=white&color=00A672" />
 </a>
 
-### Plateforme
+### Hébergements/Services préférés
 
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7" />
@@ -45,12 +45,12 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=black&color=FFCA28" />
 </a>
 
-### Logiciels
+### Logiciels principalement utilisés
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=589632" />
 </a>
 
-## Réseaux sociaux 
+## Réseaux asociaux 
 <a href="https://twitter.com/JoshuaVachon25" target="_blank" style="cursor: default;">
   <img src="https://img.shields.io/badge/Twitter-@joshuavachon25-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2" />
 </a>
