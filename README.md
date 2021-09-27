@@ -2,11 +2,7 @@
 
 Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, développeur et rédacteur pour le projet Historiamati.ca et candidat à la maîtrise en informatique appliquée à l'histoire (M.A). J'aime principalement travailler sur des projets informatiques touchant aux sciences humaines et sociales, donc tout ce qui touche aux humanités numériques. 
 
-<!--## Langages, frameworks et logiciels
-### Développement
-<a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/-Jamstack-informational?style=flat&logo=jamstack&logoColor=white&color=2bbc8a" />
-</a>
+## Langages
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/Web-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
 </a>
@@ -17,13 +13,18 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/Web-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
 </a>
 <a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Web-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
+</a>
+<a href="#" style="cursor: default;">
+  <img src="https://img.shields.io/badge/Logiciel-Python-informational?style=flat&logo=python&logoColor=white&color=8FBCBB" />
+</a>
+
+## Framework
+<a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/Web-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a" />
 </a>
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/Web-Nuxt.js-informational?style=flat&logo=nuxtdotjs&logoColor=white&color=2bbc8a" />
-</a>
-<a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/Logiciel-Python-informational?style=flat&logo=python&logoColor=white&color=8FBCBB" />
 </a>
 
 ### Plateforme
