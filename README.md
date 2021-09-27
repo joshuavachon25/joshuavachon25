@@ -30,7 +30,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Gridsome-informational?style=flat&logo=gridsome&logoColor=white&color=00A672" />
 </a>
 
-### Hébergements/Services préférés
+## Hébergements/Services préférés
 
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7" />
@@ -45,7 +45,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=black&color=FFCA28" />
 </a>
 
-### Logiciels principalement utilisés
+## Logiciels principalement utilisés
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=589632" />
 </a>
