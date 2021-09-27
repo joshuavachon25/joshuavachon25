@@ -10,7 +10,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
 </a>
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
 </a>
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4" />
@@ -42,7 +42,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
   <img src="https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098" />
 </a>
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28" />
+  <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=black&color=FFCA28" />
 </a>
 
 ### Logiciels
