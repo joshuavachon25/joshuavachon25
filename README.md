@@ -6,7 +6,7 @@ Co-fondateur et développeur web pour le Studio Cyberfjord, co-fondateur, dével
 
 ## Langages principalement utilisés
 <a href="#" style="cursor: default;">
-  <img src="https://img.shields.io/badge/-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />
 </a>
 <a href="#" style="cursor: default;">
   <img src="https://img.shields.io/badge/-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
