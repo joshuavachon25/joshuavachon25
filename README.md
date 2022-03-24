@@ -1,4 +1,4 @@
-<img align="center" src="/assets/shudai_anim.svg" />
+<img align="center" src="/assets/jvmoine.png" />
 
 Co-fondateur, développeur et reponsable technique pour le Studio Cyberfjord, ainsi que co-fondateur, développeur et rédacteur pour le projet Historiamati.ca (Humatica). Je suis également candidat à la maîtrise en informatique appliquée à l'histoire (M.A). J'aime principalement travailler sur des projets informatiques touchant aux sciences humaines et sociales, donc tout ce qui touche aux humanités numériques. 
 
