@@ -1,8 +1,5 @@
-<img align="center" src="/assets/jvmoinebg.png" />
-
-Co-fondateur, développeur et reponsable technique pour le Studio Cyberfjord, ainsi que co-fondateur, développeur et rédacteur pour le projet Historiamati.ca (Humatica). Je suis également candidat à la maîtrise en informatique appliquée à l'histoire (M.A). J'aime principalement travailler sur des projets informatiques touchant aux sciences humaines et sociales, donc tout ce qui touche aux humanités numériques. 
-
-Co-founder, developper and technical manager at Cyberfjord Studio, also co-founder, developper and writer for Historiamati.ca (Humatica). I am also finishing a master degree in Digital History (M.A). I mainly like to work on project linked to social/human sciences, so basically, everything that concerns Digital Humanities.
+Développeur QA, développeur web et passionné par les Humanités Numériques.
+QA Developper, Web developper and Digital Humanities enthusiast.
 
 ## Réseaux asociaux 
 <a href="https://twitter.com/JoshuaVachon25" target="_blank" style="cursor: default;">
