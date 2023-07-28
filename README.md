@@ -1,8 +1,6 @@
 <h1 align="center">Joshua L.J. Vachon</h1>
 <h3 align="center">QA/Web developper and Digital Humanist</h3>
 
-![](https://github.com/joshuavachon25/joshuavachon25/blob/main/assets/jvmoinebg.png?raw=true)
-
 ### Skills
 **WEB** | HTML5, CSS3, JavaScript, TypeScript, NodeJS, Deno, Astro, SvelteKit, VueJS
 
