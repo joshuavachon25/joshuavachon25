@@ -1,5 +1,5 @@
 <h1 align="center">Joshua L.J. Vachon</h1>
-<h3 align="center">QA/Web developper and Digital Humanist</h3>
+<h3 align="center">SDET (QA) and Web developper and Digital Humanist</h3>
 
 ### Skills
 **WEB** | HTML5, CSS3, JavaScript, TypeScript, NodeJS, Deno, Astro, SvelteKit, VueJS
