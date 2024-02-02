@@ -1,7 +1,9 @@
 <h1 align="center">Joshua L.J. Vachon</h1>
 <h3 align="center">Automation, Web developpment and Digital Humanities</h3>
 
-### Skills
+### Interest
+Test automation, Pentesting, Ethical Hacking, Video games developpment, web developpement
+
 **WEB** | HTML5, CSS3, JavaScript, TypeScript, NodeJS, Deno, Astro, SvelteKit, VueJS
 
 **SOFTWARE** | Python, JavaScript, Java, C#
